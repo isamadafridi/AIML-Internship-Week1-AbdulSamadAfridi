@@ -29,7 +29,7 @@ Students Performance in Exams (Kaggle Dataset)
 
 ## 📈 Best Visualization:
 
-![EDA Dashboard](eda_dashboard.png)
+![EDA Dashboard](https://github.com/isamadafridi/AIML-Internship-Week1-AbdulSamadAfridi/blob/main/Professional%206-Chart%20EDA%20Dashboard.png)
 
 ---
 
