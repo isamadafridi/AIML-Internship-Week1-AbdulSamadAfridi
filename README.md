@@ -37,7 +37,7 @@ Students Performance in Exams (Kaggle Dataset)
 
 Pairplot analysis shows strong correlation between reading and writing scores, while gender does not significantly separate students in feature space.
 
-![Pairplot](pairplot_scores.png)
+![Pairplot](https://github.com/isamadafridi/AIML-Internship-Week1-AbdulSamadAfridi/blob/main/Pair%20Plot%20Multi-Variable%20Analysis.png)
 
 ---
 
